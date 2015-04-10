@@ -1,0 +1,15 @@
+{
+	"displayName": "Creme De Lite Carrot",
+	"size": [24,24],
+	"maxStack": 30,
+	"value": [0,0,0,15],
+	"rare": 1,
+	"useSound": 2,
+	"useStyle": 2,
+	"useAnimation": 15,
+	"useTime": 15,
+	"tooltip": ["Information about vegetable"],
+	"consumable": true,
+	"foodValue": 6,
+	"grilled": "ExoExp:CookedCremeDeLite"
+}

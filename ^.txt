@@ -1,0 +1,92 @@
+Market stall
+	placeable tile that allows owner to set trade amounts for other players to use while server is online. Kind of like a chest gui with top row being what is being traded, middle what is required for trade and bottom is where to put the items for trade. I say top middle bottom, however there will be two extra lines for storage of both the items to trade and the items you have received. They can be on the same line as each other, so trades may also be user funded in a way. Player 1 sets up trade; 1 goji berry for 1 gac fruit, as well as a trade of 1 gac fruit for 3 rockmelon seeds. Player 2 trades for the goji berry, thus giving Player 1 a gac to trade.
+Grafting
+	Will complete more thoroughly as I figure out how we should do this/if we should.
+Soil
+	Higher quality soil leads to increase germination rate (higher if done in proper conditions according to the plant), higher output of produce, less chance for disease, higher chance at breeding. Soil made out of crimsand/flesh blocks and the like will be highly nutrient dense, leading to better yields; however may cause higher chances for disease. Hallowed sand is pure and has a much lower chance for disease.
+Composting
+	More compost = higher output. Higher tier items composted = better compost (more nutrition/minerals). Needs water. Needs to be rotated.
+	Can craft a low tier bin for less output and less efficiency. Is a number and is additive. Can check soil with tool of some sort. If it gets a considerable amount of nutrients it will be very high quality. Fruits and vegetables may be composted along with seeds and food scraps, which will be given when eating with a small chance, affected by how big a meal you just ate.
+Botanist
+	Sells rare seeds, growth compounds for "cloning", pesticides/fungicides (possibly branching into herbicides to fight weeds and shit, not sure if I want to add this) and gardening tools.
+Hallucinogens
+	Causes hallucinations. Causes monsters to attack and teleport around. Different hallucinogens cause different hallucinations and in turn different monsters. Psilocybins cause mushroom like monsters to appear, similar looking to the mushroom biome mobs.
+Trace minerals
+	Grind ores into dusts and use them on soil. Adds a large number of minerals. Is a number and is additive. Can check soil with tool of some sort.
+Biological creatures
+	Can be placed on crops to add biology to the soil. Higher biology = better efficiency. May be worms, or bacteria and other microscopic life forms. There will probably be breeding for biological bacteria, for more hardy, more tolerant bacteria.
+Pests
+	Spawns when plants have low pesticide rating. Damages plants, taking overall health down. Lower health = less produce. Can be sprayed with pesticides. Chemical pesticides may be bought, natural ones must be crafted from plants. Garlic, Pepper, Onion can be used with oils and water. Yeast based spray that attracts predatory insects (lacewings) to eat aphids. Birds will also be problems to some of the plants, mostly fruits. Scarecrows will work, not instantly, but after some rand ticks. Nets may also be placed, this is most efficient, but costs a large amount of silk per tree.
+Fungus
+	Spawns when low fungicide rating. Slows growth down significantly and damages plant. Can be sprayed with fungicides. Bicarb soda and water, with some oil.
+Irrigation
+	Irrigation keeps all soil irrigated so long as a water supply is still valid. Uses a tile of liquid every 5 minutes irl. Needs to be placed onto soil, and connected all the way to the water source. (Not too sure how to implement this as of yet)
+Random shit
+	Plants will need to grow in appropriate climates, some may prefer the warmth of the jungle or the full sun that may be found in deserts. Humidity of biomes irl will play a factor in how fast the hydration of the crop goes down. Crop rotation will be a thing eventually; I need to learn fully what plants take which minerals/nutrients and how quickly they take them. If you grow too many of the same sort of crop, nutrients will diminish and cause lower yields. Companion planting can alleviate this. One companion plant combo that comes to mind is basil and tomato. Probably should check on the validity of this as I learned it in high school horticulture and teacher may not have been too well informed, however I doubt it as he was very intelligent and lived on a farm, who knows.
+Seeds
+	May fall and drop as an item when plant is in full growth stage. Can be planted in seedling trays, straight in soil or in incubators for increased growth chance. Incubators require players to place the correct components together to get it working. Incubators may also be irrigated. Base chance for germination is 15 for soil, 25 for tray and 45 for incubator. Some seeds may be afftected negatively when used in incubator or straight in soil, dropping the base chance by 5 or 10 dependent on crop/germination method.
+Bees
+	BEEEEEEEEEEEEEEEEEEEEEES. More on that later.
+Flowers
+	Mostly visual, some may have small effects; attracting insects, bees or other animals, can be used to craft perfume which removes stinky potion thingo and may also other things
+Birds
+	May deter pests, but can also become a problem themselves. Birds can't get rid of pests in netted plants, so they must be manually sprayed. Eat fruits and lose out on yield (number based on other factors; health, soil, compost, trace minerals, crop rotation), lower number = less food. Only eats some plants. Helps cross pollinate flowers through Zoophily. Checks surrounding plants and generates a random chance to cross pollinate if alive for a certain amount of time. New exotic birds may show up when certain requirements for their species have been met (certain bugs, certain plant nectar, bird baths, nest boxes, bird feeders).
+Bird Enthusiast
+	Npc that sells bird baths, nest boxes that are placed on trees/wood, Big Book of Birding (kinda like the apiarist database in forestry), bird feeders, nectar (which can also be used to speed honey production) and birding binoculars (click a bird while holding to reveal information and add to The Big Book of Birding).
+
+
+
+
+
+
+
+
+
+
+
+Small Crop/Bush Plants
+	Carrot - Purple (indigo), Yellow (sunlite), White (creme de lite), Orange (inca, navajo, sirkana, top cut, little finger, red core chantenay), Red (atomic red)
+
+	Potato - Pink/Red (desiree, red pontiac), White (coliban), Brown/Dirty (dutch cream), Purple (purple congo)
+
+	Sweet Potato - White (o henry), Orange (beauregard, puerto rican, 573, hernandez), Purple (414 purple), Red (murasaki)
+
+	Onions - Red, Brown, White
+
+	Garlic - White, Purple/White, 
+
+	Radish - Red (european, champion, french breakfast), White (daikon, burpee white, chinese white, china rose), Black (round black spanish), Purple (plum purple)
+
+	Lettuce - Iceberg, Cos, Red Oak, Red Salad Bowl, Mercielles, Santoro, Drunker Woman Frizzy Headed, Garden Babies, Matchless, Summertime, Celtuce, 
+
+	Spinach - 
+
+	Celery - 
+
+	Melons - Rockmelon/Cantaloupe, Watermelon (yellow and red flesh), Honeydew, Canary Melon, Winter Melon, Horned Melon, Muskmelon, Bitter Melon
+
+
+
+
+
+
+Others
+	Watering can
+	Sprinkler
+	Irrigation tubing (may be invisible like wires until holding a garden tool of some sort)
+	Shovel
+	Rake
+	Hoe
+	Seed packets (crafting seeds into packs keeps germination rate high)
+	Compost bin - Stationary and tumbler
+	Growth compounds
+	Pesticides/Fungicides/Herbicides
+	Rock dust packets
+	Royal jelly
+	Honeycomb
+	Nectar
+	Pollen
+	Nest boxes
+	Bird bath
+	Bird feeder
+	

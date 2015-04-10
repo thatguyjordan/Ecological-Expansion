@@ -1,0 +1,21 @@
+{
+	"displayName": "Market",
+	"mapHoverText": "Market",
+	"size": [3,3],	
+	"frameWidth": 16,
+	"frameHeight": 16,
+	"frameImportant": true,
+	"sheetColumns": 3,
+	"sheetRows": 3,
+	"solid": false,
+	"blocksLight": false,
+	"blocksSun": false,
+	"mergeDirt": false,
+	"drop": "EcoExp:Market",
+	"placementConditions": "flatGround",
+	"glows": true,
+	"breaksByPick": true,	
+	"breaksByAxe": false,	
+	"breaksByHammer": false,	
+	"dust": 9
+}

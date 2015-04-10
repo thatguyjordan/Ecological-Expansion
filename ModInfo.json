@@ -1,0 +1,8 @@
+{
+    "internalName" : "EcoExp",
+    "displayName": "Ecological Expansion",
+    "author": "jordan, Lewis, nealpd",
+    "modReferences": ["jLib"],
+    "info": "Birds, Bees, Crops and Trees!",
+    "version": "0.0.0"
+}

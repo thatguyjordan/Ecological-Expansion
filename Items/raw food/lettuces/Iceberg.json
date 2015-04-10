@@ -1,0 +1,14 @@
+{
+	"displayName": "Iceberg Lettuce",
+	"size": [0,0],
+	"maxStack": 30,
+	"value": [0,0,0,15],
+	"rare": 1,
+	"useSound": 2,
+	"useStyle": 2,
+	"useAnimation": 15,
+	"useTime": 15,
+	"tooltip": ["Information about vegetable"],
+	"consumable": true,
+	"foodValue": 6
+}
